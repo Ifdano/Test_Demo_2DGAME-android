@@ -1,6 +1,8 @@
 ## Тестовая демоверсия "игры" для android. 
 
 ### Демонстрация процесса: https://youtu.be/6pc3zmFLrNE
+###  Процесс создания, без комментариев: https://www.youtube.com/playlist?list=PLsz1YDzalpSElJ3-Sl0O3jdpJg93_2Pec
+
 ### Управление:
 ##### 1] При нормальной/включенной гравитации, нижняя половина экрана предназначена для передвижения влево/вправо, а верхняя для прыжков влево/вправо. 
 ![demo_game_android_1](https://user-images.githubusercontent.com/15383481/47849643-e131f200-ddeb-11e8-941d-9d0b8f5d0a5b.png)
